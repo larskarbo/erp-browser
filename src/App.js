@@ -3,7 +3,7 @@ import './App.scss';
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const BASE = "http://localhost:3392/"
+const BASE = "https://analyzehost.drowzee.com/"
 const API = "https://api.drowzee.com/"
 
 function App() {
